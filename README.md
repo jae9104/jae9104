@@ -15,6 +15,17 @@ Currently based in Liechtenstein 🇱🇮, expanding my knowledge in Information
 
 ---
 
+### 🏆 Featured Projects (Double Bachelor's Thesis)
+
+These two flagship projects earned the highest grades and represent the culmination of my Double Degree in Computer & Software Engineering:
+
+- **📊 Gaming Data Analytics Platform:** A full-stack web application built to extract, analyze, and visualize user match results and performance statistics (similar to tools like Porofessor, OP.GG...). Focused on heavy data processing and delivering clear, real-time insights to users.
+- **☁️ Highly Scalable Cloud Deployment (OCI):** An enterprise-grade cloud architecture deployed on **Oracle Cloud Infrastructure (OCI)**. This project leverages **Kubernetes** for robust container orchestration and **Redis**, featuring an automated scaling system specifically designed to handle dynamic workloads and traffic spikes efficiently.
+
+📌 *Feel free to explore my **pinned repositories** below to check out other smaller-scale but equally interesting projects I've been tinkering with!*
+
+---
+
 ### 💻 Tech Stack & Tools
 
 **Languages:**
